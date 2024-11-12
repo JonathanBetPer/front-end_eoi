@@ -1,4 +1,4 @@
-# 🚀 Curso de Front-End 🌐
+# 🚀 Curso de Front-End - Jonathan 🌐
 
 ¡Bienvenido a mi viaje por el mundo del desarrollo Front-End! 🎉 Aquí es donde sucede toda la magia visual, donde CSS se convierte en poesía, JavaScript en hechizos, y HTML en los ladrillos que construyen la web. 🧱✨
 
